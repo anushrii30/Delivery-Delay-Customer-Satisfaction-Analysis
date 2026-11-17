@@ -57,7 +57,7 @@ An interactive one-page dashboard with:
 - Average review score, on time vs. late
 - A state slicer that filters every visual
 
-![Dashboard](images/dashboard.png) *(add your screenshot)*
+![Dashboard](images/dashboard.png) 
 
 ## Repository structure
 
